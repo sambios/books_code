@@ -1,1 +1,0 @@
-cmd_/home/baohua/develop/training/kernel/drivers/second/second.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/baohua/develop/training/kernel/drivers/second/second.ko /home/baohua/develop/training/kernel/drivers/second/second.o /home/baohua/develop/training/kernel/drivers/second/second.mod.o
